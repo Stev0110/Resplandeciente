@@ -1,0 +1,26 @@
+h1 {
+        color: rgb(255,245,0);
+        background-color: rgb(220,200,200);
+        font-size: 50px;
+        font-family: 'Brush Script MT', cursive;
+        text-align: center;
+        }
+
+    .p1 { font-size: 15px;
+      color:  black; 
+      text-align: center;
+        }
+    
+    h2 { font-size: 20px;
+    text-align: center;
+    color: black;
+    }
+
+    h3 { font-size: 25px;
+        text-align: center;
+        color: black;
+       }
+    
+     body { background-color: rgb(255,255,255);
+         }
+      
